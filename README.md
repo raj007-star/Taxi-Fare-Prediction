@@ -1,7 +1,7 @@
 # Taxi Fare Prediction
 
 ![Project Status](https://img.shields.io/badge/Status-Completed-success.svg)
-![Python 3.7.8](https://img.shields.io/badge/Python-3-blue.svg)
+![Python Version](https://img.shields.io/badge/Python-3.7.8-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-red.svg)
 
 ## Overview
