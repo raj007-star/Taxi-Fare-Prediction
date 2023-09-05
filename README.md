@@ -44,11 +44,12 @@ To set up this project locally, follow these steps:
 
 
 2. Create a virtual environment (recommended) and install dependencies:
-python -m venv venv
-source venv/bin/activate  # On Windows, use: venv\Scripts\activate
-pip install -r requirements.txt
+   
+         python -m venv venv
+         source venv/bin/activate  # On Windows, use: venv\Scripts\activate
+         pip install -r requirements.txt
 
-3. Run the application:
+4. Run the application:
 python app.py
 
 The application should now be running locally at http://localhost:5000.
