@@ -36,18 +36,19 @@ You can try out the Taxi Fare Prediction system by visiting our [Demo Page](#).
 To set up this project locally, follow these steps:
 
 ## Installation
-1. Clone the repository:
+1. Clone the repository
 
-```bash
-git clone https://github.com/yourusername/taxi-fare-prediction.git
-cd taxi-fare-prediction
+     ```bash
+    git clone https://github.com/yourusername/taxi-fare-prediction.git
+    cd taxi-fare-prediction
 
-1) Create a virtual environment (recommended) and install dependencies:
+
+2. Create a virtual environment (recommended) and install dependencies:
 python -m venv venv
 source venv/bin/activate  # On Windows, use: venv\Scripts\activate
 pip install -r requirements.txt
 
-1) Run the application:
+3. Run the application:
 python app.py
 
 The application should now be running locally at http://localhost:5000.
