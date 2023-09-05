@@ -35,6 +35,7 @@ You can try out the Taxi Fare Prediction system by visiting our [Demo Page](#).
 
 To set up this project locally, follow these steps:
 
+## Installation
 1. Clone the repository:
 
 ```bash
@@ -51,6 +52,7 @@ python app.py
 
 The application should now be running locally at http://localhost:5000.
 
+
 ## Usage
 Enter the pickup and dropoff locations along with other parameters.
 Click the "Estimate Fare" button to get the predicted taxi fare.
@@ -64,10 +66,14 @@ The dataset used for this project can be found in the data directory. It include
 The machine learning model used for fare prediction is implemented in the train_model.ipynb Jupyter Notebook. You can explore this notebook for details on data preprocessing, feature engineering, model selection, and training.
 
 
-##Contributing
+## Contributing
 Contributions are welcome! If you'd like to improve this project or add new features, please open an issue or submit a pull request. For major changes, please discuss them in advance.
 
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Contact
+
+For questions or collaborations, contact [Swarnava Gayen](swarnavagayen@email.com).
 
